@@ -1,0 +1,32 @@
+InstruÃ§Ãµes para N2 da disciplina de Jogos Digitais Para Web
+===========================================================
+
+FAVOR LÃR COM ATENÃÃO:
+
+Observe o exemplo.png fornecido na pasta material
+
+Utilize um pen-drive ou seu e-mail para fazer backups esporÃ¡dicos do seu cÃ³digo fonte. 
+
+A-) Jamais modifique qualquer uma das imagens em um editor.
+B-) NÃ£o utilize qualquer tipo de biblioteca, apenas HTML e Javascript puro!
+C-) Utilize somente as imagens fornecidas e nÃ£o duplique os arquivos de imagens.
+D-) Utilize o bom senso para a velocidade de seu jogo
+E-) Favor nÃ£o criar pastas, manter imagens e .html em um Ãºnico local.
+F-) CondiÃ§Ã£o, envie atÃ© as 22h10 apenas seu arquivo .html (e JavaScripts se tiver) para o e-mail:
+	zerowil@gmail.com (copie e cole o endereÃ§o para evitar erros).
+G-) Coloque no assunto: 
+	N2 JD - NOME 1 COMPLETO | NOME 2 COMPLETO
+H-) Mantenha seu e-mail enviado no horÃ¡rio ele Ã© a prova de sua entrega da prova dentro do horÃ¡rio.
+I-) O browser "base" utilizado Ã© o Chrome, sugiro testar nele.
+
+Tarefas
+=======
+
+1 - [1.0 ponto] Desenhe o fundo com um canvas da mesma medida que a imagem
+2 - [2.0 pontos] Anime um aviÃ£o que entra na tela pelo lado esquerdo e desaparece pelo lado direito, reaparecendo em uma altura aleatÃ³ria no topo da tela pelo lado esquerdo.
+2.1 - [1.0 ponto] Alterne as duas imagens "Fly1.png" e "Fly2.png" para animar os aviÃµes enquanto voam.
+3 - [1.0 ponto] Posicione um dos dois arcos arpao.png  (Escolha o esquerda ou da direita) posicione conforme arco de exemplo, no centro da tela, ele nÃ£o irÃ¡ se mover.
+3.1 - [2.0 ponto] O ArpÃ£o deve ser posicionado no arco e ao se pressionar a barra de espaÃ§os, ser disparado.
+3.2 - [1.0 ponto] A imagem do arco deve ser substituida pelo arco disparado atÃ© o arpÃ£o atingir um alvo ou sair da tela, quando entÃ£o o arco volta a sua posiÃ§Ã£o inicial pronto para um novo tiro.
+4 - [1.0 ponto] Quando o arpÃ£o atingir um dos aviÃµes este contador deve aumentar, quando o aviÃ£o passar ileso, deve diminuir, podendo ficar negativo se preciso.
+5 - [1.0 ponto] Quando o arpÃ£o atingir um dos aviÃµes, sua imagem deve ser substituida pela "Dead.png" e rotacionado 90o graus caindo como no exemplo atÃ© sair da tela. Os aviÃµes nÃ£o acabam.

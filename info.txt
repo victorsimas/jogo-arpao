@@ -1,0 +1,7 @@
+ArpaoImg Recorte = 279x90
+
+recorte tiro
+0,
+0,
+132,
+86, //Recorte
